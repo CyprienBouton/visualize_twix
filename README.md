@@ -8,6 +8,10 @@ To use this project, first clone the repo on your device using the command below
 ```
 git clone https://github.com/CyprienBouton/visualize_twix.git
 ```
+Go into the repository
+```
+cd visualize_twix
+```
 After, create and activate a virtual environment, install the requirements
 ```
 pip install -r requirements.txt
