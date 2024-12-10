@@ -14,8 +14,8 @@ After, create and activate a virtual environment.
 
 Then run the command:
 ```
-python dynamic_plots.py -f %%__file-path__%%
+python dynamic_plots.py -f __file-path__
 ```
 
-If no page is open, click on the following link http://127.0.0.1:8050/(http://127.0.0.1:8050/)
+If no page is open, click on the following link http://127.0.0.1:8050/
 
